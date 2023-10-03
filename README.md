@@ -7,3 +7,5 @@ First demo
 new text
 
 Hello there.
+new text 
+new to git
