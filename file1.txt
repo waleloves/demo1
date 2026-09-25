@@ -1,2 +1,4 @@
 Hello 
 this is my git lesson
+123456
+i want to push to the remote repo
